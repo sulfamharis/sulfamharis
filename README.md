@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**sulfamharis/sulfamharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sulfa M Haris 👋
 
-Here are some ideas to get you started:
+MSc Computer Science student passionate about software development, Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 Pursuing MSc Computer Science
+- 💻 Interested in AI, ML and Software Development
+- 🌱 Continuously learning and building practical projects
+- 🎯 Looking for internship and entry-level opportunities
+
+### Tech Stack
+- **Languages:** Python, Java
+- **Database:** MySQL, SQL
+- **Areas:** Machine Learning, AI, Backend Development
+
+### Featured Projects
+Coming soon!
+
+### Connect With Me
+- GitHub: https://github.com/sulfamharis
