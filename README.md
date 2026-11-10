@@ -1,38 +1,55 @@
-# Hi, I'm Sulfa M Haris 👋
+# Sulfa M Haris
 
-MSc Computer Science student interested in **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy learning by building practical projects and exploring how technology can solve real-world problems.
+**MSc Computer Science Student | Aspiring AI & Software Developer**
 
-- 🎓 MSc Computer Science — Assumption College (expected 2027)
-- 💻 Interested in AI/ML, Python development, and backend systems
-- 🌱 Currently strengthening my development and problem-solving skills
-- 🎯 Open to internships and entry-level opportunities in AI/IT
+I am a Computer Science postgraduate student interested in developing practical software solutions and exploring applications of Artificial Intelligence and Machine Learning. I enjoy learning new technologies, solving problems, and building projects that strengthen my technical skills.
 
-## Skills
+[GitHub](https://github.com/sulfamharis)
 
-- **Languages:** Python, Java, SQL
-- **Database:** MySQL
-- **Areas:** Machine Learning, Data Analysis, Backend Development
-- **Tools:** Git, GitHub
+---
+
+## Professional Summary
+
+- MSc Computer Science student at Assumption College (2025–2027)
+- BSc Computer Science graduate (2025)
+- Interested in AI/ML, software development, and backend engineering
+- Currently building practical projects and strengthening development fundamentals
+- Open to internship and entry-level opportunities in the IT industry
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python, Java |
+| Database | SQL, MySQL |
+| Core Areas | Machine Learning, Data Analysis, Backend Development |
+| Tools | Git, GitHub |
 
 ## Selected Projects
 
 ### Teenage Mental Health Prediction
-Machine learning project using Python to explore data and predict mental-health risk categories. Includes data preprocessing, exploratory data analysis, and model evaluation using Decision Tree and Random Forest.
+A machine learning project using Python to explore data and predict mental-health risk categories. Includes data preprocessing, exploratory data analysis, and model evaluation using Decision Tree and Random Forest algorithms.
 
 ### Event Management System
-A Java-based project designed to support event-related management tasks.
+A Java-based application developed to support event management tasks.
 
 ### Insurance Management System
-A Python project focused on managing insurance-related information and operations.
+A Python-based application focused on managing insurance-related information and operations.
 
 ## Education
 
-**MSc Computer Science** — Assumption College, expected 2027  
-**BSc Computer Science** — Assumption College, 2025
+**Master of Science in Computer Science**  
+Assumption College | 2025–2027 (Expected)
+
+**Bachelor of Science in Computer Science**  
+Assumption College | 2022–2025
+
+---
 
 ## Connect
 
-- GitHub: [@sulfamharis](https://github.com/sulfamharis)
+- GitHub: [sulfamharis](https://github.com/sulfamharis)
 
 ---
-*Always learning. Always building.*
+
+*Building skills through continuous learning and practical development.*
